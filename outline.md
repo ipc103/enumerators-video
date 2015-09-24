@@ -25,7 +25,6 @@ students.each {|student| turn_into_frog(student)}
 
 + much shorter to write it this way
 + expandable - we can add students to our array without changing this
-+ 
 
 4. Return values
  + .each is a method, and like any other it has a return value
