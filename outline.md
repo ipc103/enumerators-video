@@ -14,6 +14,7 @@
 	turn_into_frog(students[2])
 	```
 3. Show with `.each`
+
 ```ruby
 students.each do |student|
 	turn_into_frog(student)
