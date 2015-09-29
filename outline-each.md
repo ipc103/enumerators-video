@@ -22,22 +22,4 @@ end
 
 students.each {|student| turn_into_frog(student)}
 ```
-Good because it's much shorter to write it this way and expandable - we can add students to our array without changing this
-
-
-4. Return values
- + .each is a method, and like any other it has a return value
- + the return value is the original array it was called on
- + Some other enumerators return manipulated values
- + others return true or false
-
-5. .collect
- + Sometimes, you want a new array with some values from the old array
- + build out `.collect` using `.each`
-
-6. `.delete_if`, `.find`, `.select`
-
- + return different arrays or an item, based on a true/false statement
-
-
-
+Good because it's much shorter to write it this way and expandable - we can add students to our array without changing this. 
