@@ -18,6 +18,8 @@
   + We write a placeholder between the pipes to represent the element on each pass.
   + This is the same as passing an argument to a method. 
 + {} syntax
-  {} can be replaced using 
+  + {} can be used instead of `do` and `end`
+  + the opening `{` replaces the `do`, and the closing replaces the `end`. 
+  + they function the same, but by convention, we only use `{}` when the code will fit on one line. 
 
 
